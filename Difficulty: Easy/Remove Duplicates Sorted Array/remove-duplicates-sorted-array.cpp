@@ -1,0 +1,15 @@
+class Solution {
+  public:
+    vector<int> removeDuplicates(vector<int> &arr) {
+        vector <int> temp;
+        if (arr.empty()) return temp;
+        temp.push_back(arr[0]);
+        for(int i = 1 ;  i<arr.size();i++){
+            if(arr[i]!=arr[i-1]){
+                temp.push_back(arr[i]);
+            }
+        }
+        return temp;
+        
+    }
+};
