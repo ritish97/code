@@ -6,7 +6,6 @@ public:
         int i=0;
         int j=1;
         while (j<nums.size() && nums[i]<=nums[j]){
-            maxi=nums[j];
             i++;
             j++;
         }
