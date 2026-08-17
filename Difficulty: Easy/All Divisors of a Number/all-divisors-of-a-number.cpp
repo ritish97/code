@@ -1,17 +1,17 @@
 class Solution {
   public:
     vector<int> getDivisors(int n) {
-        vector<int> result;
-        for (long long i=1;i*i<=n;i++){
-            if(n%i==0){
-                result.push_back(i);
-                if ((n/i)!=i){
-                    result.push_back(n/i);
-                }
-            }
+        vector < int> ans;
+        for (int i = 1 ;i*i<=n;i++){
+           if (n%i == 0){
+             ans.push_back(i);
+               if (i!=n/i){
+               ans.push_back(n/i);
+               }
+           }
         }
-        sort(result.begin(),result.end());
-        return result;
+        sort(ans.begin(),ans.end());
+        return ans;
         
     }
 };
