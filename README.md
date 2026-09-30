@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritish97/code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ritish97/code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ritish97/code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ritish97/code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ritish97/code/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ritish97/code/tree/master/1903-largest-odd-number-in-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ritish97/code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ritish97/code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ritish97/code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ritish97/code/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritish97/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ritish97/code/tree/master/0283-move-zeroes) |
@@ -213,4 +215,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ritish97/code/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
