@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ritish97/code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ritish97/code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ritish97/code/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/ritish97/code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ritish97/code/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ritish97/code/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
