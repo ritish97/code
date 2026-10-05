@@ -235,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ritish97/code/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ritish97/code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
